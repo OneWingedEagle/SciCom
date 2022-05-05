@@ -1,0 +1,6 @@
+﻿  SpVect.cpp
+D:\Development\magfem\src\SpVect.cpp(42,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'unsigned __int64'
+D:\Development\magfem\src\SpVect.cpp(42,9): message : consider using '%zd' in the format string
+  main.cpp
+  Generating Code...
+  magfem.vcxproj -> D:\Development\magfem\project\x64\Debug\magfem.exe
